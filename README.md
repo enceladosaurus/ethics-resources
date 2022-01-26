@@ -26,7 +26,8 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#websites">Websites</a></li>
-    <li><a href="#talks-and-videos">Talks and Videos</a></li>
+    <li><a href="#talks">Talks</a></li>
+    <li><a href="#podcasts-and-youtube-channels">Podcasts and YouTube Channels</a></li>
     <li><a href="#articles-and-white-papers">Articles and White Papers</a></li>
     <li><a href="#books">Books</a></li>
     <li><a href="#conferences-and-events">Conferences and Events</a></li>
@@ -44,15 +45,18 @@
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Talks and Videos
+## Talks
+
+
+## Podcasts and YouTube Channels
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Articles and White Papers
 
-
-
+- AI4People's [Ethical Framework for A Good AI Society: Opportunities, Risks, Principles, and Recommendations](https://www.eismd.eu/wp-content/uploads/2019/02/Ethical-Framework-for-a-Good-AI-Society.pdf)
+- 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Books
@@ -77,7 +81,7 @@
 
 ## Published Research
 
-* Note: this is not an exhaustive list by any means and reflects some of my own research interests. Feel free to request additional Key Topics tags! *
+*Note: this is not an exhaustive list by any means and reflects some of my own research interests. Feel free to request additional Key Topics tags!*
 
 | Authors | Title | Year | Key Topics |
 | ------- | ----- | ---- | ---------- |
@@ -87,6 +91,7 @@
 | Basta et al. | [Evaluating the Underlying Gender Bias in Contextualized Word Embeddings](https://aclanthology.org/W19-3805.pdf) | 2019 | `NLP` `LLM` | 
 | Bender et al. | [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/10.1145/3442188.3445922) | 2021 | `NLP` `LLM` |
 | Dillon, S. | [The Eliza Effect and Its Dangers: From Demystification to Gender Critique](https://www.repository.cam.ac.uk/bitstream/handle/1810/304211/Dillon%20The%20Eliza%20Effect%20JCR.pdf?sequence=1&isAllowed=n) | 2020 | `Virtual Assistants` `Feminism` |
+| Fazelpour & De-Arteaga | [Diversity in Sociotechnical Machine Learning Systems](https://arxiv.org/pdf/2107.09163.pdf) | 2021 | `Algorithmic Fairness` | 
 | Gebru et al. | [Datasheets for Datasets](https://arxiv.org/pdf/1803.09010.pdf) | 2021 | `Data` `XAI` |
 | Gonen & Goldberg | [Lipstick on a Pig: Debiasing Methods Cover up Systemic Gender Biases in Word Embeddings But Do Not Remove Them](https://arxiv.org/pdf/1903.03862.pdf) | 2019 | `NLP` `LLM` |
 | Guo & Caliskan | [Detecting Emergent Intersectional Biases: Contextualized Word Embeddings Contain a Distribution of Human-like Biases](https://dl.acm.org/doi/pdf/10.1145/3461702.3462536) | 2021 | `NLP` `LLM` |
@@ -101,6 +106,7 @@
 | Nadeem et al. | [StereoSet: Measuring stereotypical bias in pretrained language models](https://arxiv.org/pdf/2004.09456.pdf) | 2020 | `NLP` `LLM` `Datasets` |
 | Nangia et al. | [CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models](https://arxiv.org/pdf/2010.00133.pdf) | 2020 | `NLP` `LLM` `Datasets` |
 | Selbst et al. | [Fairness and Abstraction in Sociotechnical Systems](https://dl.acm.org/doi/10.1145/3287560.3287598) | 2019 | `Algorithmic Fairness` |
+| Suresh et al. | [A Framework for Understanding Sources of Harm throughout the Machine Learning Life Cycle](https://arxiv.org/pdf/1901.10002.pdf) | 2021 | `Algorithmic Fairness` 
 | Webster et al. | [Measuring and Reducing Gendered Correlations in Pre-trained Models](https://arxiv.org/pdf/2010.06032.pdf) | 2020 | `NLP` `Bias Mitigation` `LLM` |
 
 
