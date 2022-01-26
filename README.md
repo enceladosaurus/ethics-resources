@@ -76,6 +76,8 @@
 
 ## Conferences and Events
 
+- AAAI/ACM conference on [Artificial Intelligence, Ethics, and Society (AIES)](https://www.aies-conference.com/2022/)
+-
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
