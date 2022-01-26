@@ -31,6 +31,7 @@
     <li><a href="#books">Books</a></li>
     <li><a href="#conferences-and-events">Conferences and Events</a></li>
     <li><a href="#published-research">Published Research</a></li>
+    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
@@ -76,9 +77,34 @@
 
 ## Published Research
 
+* Note: this is not an exhaustive list by any means and reflects some of my own research interests. Feel free to request additional Key Topics tags! *
+
+| Authors | Title | Year | Key Topics |
+| ------- | ----- | ---- | ---------- |
+| Aroyo et al. | [Data Excellence for AI: Why Should You Care](https://arxiv.org/ftp/arxiv/papers/2111/2111.10391.pdf) | 2021 | `Data` |
+| Aroyo & Welty | [Truth is a Lie: Crowd Truth and the Seven Myths of Human Annotation](https://ojs.aaai.org/index.php/aimagazine/article/view/2564) | 2015 | `Data` `NLP` |
+| Bartl et al. | [Unmasking Contextual Stereotypes: Measuring and Mitigating BERT's Gender Bias](https://arxiv.org/pdf/2010.14534.pdf) | 2020 | `NLP` `LLM` `Bias Mitigation` | 
+| Bender et al. | [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/10.1145/3442188.3445922) | 2021 | `NLP` `LLM` |
+| Dillon, S. | [The Eliza Effect and Its Dangers: From Demystification to Gender Critique](https://www.repository.cam.ac.uk/bitstream/handle/1810/304211/Dillon%20The%20Eliza%20Effect%20JCR.pdf?sequence=1&isAllowed=n) | 2020 | `Virtual Assistants` `Feminism` |
+| Gebru et al. | [Datasheets for Datasets](https://arxiv.org/pdf/1803.09010.pdf) | 2021 | `Data` `XAI` |
+| Gonen & Goldberg | [Lipstick on a Pig: Debiasing Methods Cover up Systemic Gender Biases in Word Embeddings But Do Not Remove Them](
+https://arxiv.org/pdf/1903.03862.pdf) | 2019 | `NLP` `LLM` |
+| Guo & Caliskan | [Detecting Emergent Intersectional Biases: Contextualized Word Embeddings Contain a Distribution of Human-like Biases](https://dl.acm.org/doi/pdf/10.1145/3461702.3462536) | 2021 | `NLP` `LLM` |
+| Hanna et al. | [Towards a Critical Race Methodology in Algorithmic Fairness](https://arxiv.org/pdf/1912.03593.pdf) | 2019 | `Critical Race Theory` `Algorithmic Fairness` |
+| Hardt et al. | [Equality of Opportunity in Supervised Learning](https://arxiv.org/pdf/1610.02413.pdf) | 2016 | `Supervised Learning` `Algorithmic Fairness` |
+| Hutchinson et al. | [Towards Accountability for Machine Learning Datasets: Practices from Sofftware Engineering and Infrastructure](https://arxiv.org/pdf/2010.13561.pdf) | 2021 | `Data` |
+| Jobin et al. | [The global landscape of AI ethics](https://www.nature.com/articles/s42256-019-0088-2) | 2019 | `Literature Review` |
+| Kurita et al. | [Measuring Bias in Contextualized Word Representations](https://aclanthology.org/W19-3823.pdf) | 2019 | `NLP` `LLM` |
+| Mitchell et al. | [Model Cards for Model Reporting](https://arxiv.org/pdf/1810.03993.pdf) | 2019 | `Data` `XAI` | 
+| Nadeem et al. | [StereoSet: Measuring stereotypical bias in pretrained language models](https://arxiv.org/pdf/2004.09456.pdf) | 2020 | `NLP` `LLM` `Datasets` |
+| Nangia et al. | [CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models](https://arxiv.org/pdf/2010.00133.pdf) | 2020 | `NLP` `LLM` `Datasets` |
+| Selbst et al. | [Fairness and Abstraction in Sociotechnical Systems](https://dl.acm.org/doi/10.1145/3287560.3287598) | 2019 | `Algorithmic Fairness` |
+| Webster et al. | [Measuring and Reducing Gendered Correlations in Pre-trained Models](https://arxiv.org/pdf/2010.06032.pdf) | 2020 | `NLP` `Bias Mitigation` `LLM` |
+
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-<!-- CONTACT -->
+
 ## Contact
 
 Jesse Shanahan - [@enceladosaurus](https://twitter.com/enceladosaurus) - jess.c.shanahan@gmail.com
