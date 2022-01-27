@@ -41,14 +41,24 @@
 
 - [AI Ethicist](https://www.aiethicist.org/): a global repository of references and resources related to AI ethics
 - [Cyberculture & Social Justice Directory](http://www.cybercultureandsocialjustice.com/): a directory of research in the broader field of cyber ethics
+- [AI Ethics Course](https://aiethicscourse.org/): online course in AI ethics
 - [GRACE: Global Review of AI Community Ethics](https://ojs.stanford.edu/ojs/index.php/grace/about): peer-reviewed journal from Stanford University
+- [Interpetable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/): online book by Christoph Molnar
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Talks
 
+- [Hierarchy of KNowledge in ML & Related Fields and its Consequences](https://www.youtube.com/watch?v=OL3DowBM9uc): Timnit Gebru
+- [Understanding the Limits of AI: When Algorithms Fail](https://www.youtube.com/watch?v=QqZVx6NCkPg): Timnit Gebru
+- [From Ethics to Organizing: Getting Serious About AI](https://www.youtube.com/watch?v=_BzU0bD0Ics): Meredith Whittaker 
+- [AI, Hate Speech, and Online Content Moderation Seminar Series](https://aiethicscourse.org/webinars/ai-hate-speech-and-online-content-moderation-seminar-series): various speakers
+
 
 ## Podcasts and YouTube Channels
+
+- [Ethics in AI Podcast](https://podcasts.ox.ac.uk/series/ethics-ai)
+- [The Machine Ethics Podcast](https://www.machine-ethics.net/)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -56,6 +66,9 @@
 ## Articles and White Papers
 
 - AI4People's [Ethical Framework for A Good AI Society: Opportunities, Risks, Principles, and Recommendations](https://www.eismd.eu/wp-content/uploads/2019/02/Ethical-Framework-for-a-Good-AI-Society.pdf)
+- [A Practical Guide to Building Ethical AI](https://hbr.org/2020/10/a-practical-guide-to-building-ethical-ai) by Reid Blackman
+- [Artificial Intelligence: examples of ethical dilemmas](https://en.unesco.org/artificial-intelligence/ethics/cases)
+- [Artificial Intelligence in Christian Thought and Practice](https://medium.com/ai-and-christianity/artificial-intelligence-in-christian-thought-and-practice-20ec8635a94f)
 - 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -92,6 +105,7 @@
 | Bartl et al. | [Unmasking Contextual Stereotypes: Measuring and Mitigating BERT's Gender Bias](https://arxiv.org/pdf/2010.14534.pdf) | 2020 | `NLP` `LLM` `Bias Mitigation` | 
 | Basta et al. | [Evaluating the Underlying Gender Bias in Contextualized Word Embeddings](https://aclanthology.org/W19-3805.pdf) | 2019 | `NLP` `LLM` | 
 | Bender et al. | [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/10.1145/3442188.3445922) | 2021 | `NLP` `LLM` |
+| Davis & Osoba | [Privacy Preservation in the Age of Big Data](https://www.rand.org/pubs/working_papers/WR1161.html) | 2016 | `Privacy` `Data` |
 | Dillon, S. | [The Eliza Effect and Its Dangers: From Demystification to Gender Critique](https://www.repository.cam.ac.uk/bitstream/handle/1810/304211/Dillon%20The%20Eliza%20Effect%20JCR.pdf?sequence=1&isAllowed=n) | 2020 | `Virtual Assistants` `Feminism` |
 | Fazelpour & De-Arteaga | [Diversity in Sociotechnical Machine Learning Systems](https://arxiv.org/pdf/2107.09163.pdf) | 2021 | `Algorithmic Fairness` | 
 | Gebru et al. | [Datasheets for Datasets](https://arxiv.org/pdf/1803.09010.pdf) | 2021 | `Data` `XAI` |
@@ -100,17 +114,20 @@
 | Hanna et al. | [Towards a Critical Race Methodology in Algorithmic Fairness](https://arxiv.org/pdf/1912.03593.pdf) | 2019 | `Critical Race Theory` `Algorithmic Fairness` |
 | Hardt et al. | [Equality of Opportunity in Supervised Learning](https://arxiv.org/pdf/1610.02413.pdf) | 2016 | `Supervised Learning` `Algorithmic Fairness` |
 | Hutchinson et al. | [Towards Accountability for Machine Learning Datasets: Practices from Sofftware Engineering and Infrastructure](https://arxiv.org/pdf/2010.13561.pdf) | 2021 | `Data` |
+| Jacobs & Wallach | [Measurement and Fairness](https://arxiv.org/pdf/1912.05511.pdf) | 2021 | `Algorithmic Fairness` | 
 | Jobin et al. | [The global landscape of AI ethics](https://www.nature.com/articles/s42256-019-0088-2) | 2019 | `Literature Review` |
 | Kurita et al. | [Measuring Bias in Contextualized Word Representations](https://aclanthology.org/W19-3823.pdf) | 2019 | `NLP` `LLM` |
 | Lee, M. | [Understanding Perceptions of Algorithmic Decisions: Fairness, Trust, and Emotion in Response to Algorithmic Management](https://journals.sagepub.com/doi/full/10.1177/2053951718756684) | 2018 | `Algorithmic Fairness` |
+| Liu et al. | [Privacy and Security Issues in Deep Learning: A Survey](https://ieeexplore.ieee.org/document/9294026) | 2021 | `Privacy` | 
 | Matthews et al. | [Gender Bias in Natural Language Processing Across Human Languages](https://aclanthology.org/2021.trustnlp-1.6.pdf) | 2021 | `NLP` `LLM` | 
+| McGregor, S. | [Preventing Repeated Real World AI Failures by Cataloging Incidents: The AI Incident Database](https://arxiv.org/pdf/2011.08512.pdf) | 2020 | `Datasets`|
 | Mitchell et al. | [Model Cards for Model Reporting](https://arxiv.org/pdf/1810.03993.pdf) | 2019 | `Data` `XAI` | 
 | Nadeem et al. | [StereoSet: Measuring stereotypical bias in pretrained language models](https://arxiv.org/pdf/2004.09456.pdf) | 2020 | `NLP` `LLM` `Datasets` |
 | Nangia et al. | [CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models](https://arxiv.org/pdf/2010.00133.pdf) | 2020 | `NLP` `LLM` `Datasets` |
 | Selbst et al. | [Fairness and Abstraction in Sociotechnical Systems](https://dl.acm.org/doi/10.1145/3287560.3287598) | 2019 | `Algorithmic Fairness` |
 | Suresh et al. | [A Framework for Understanding Sources of Harm throughout the Machine Learning Life Cycle](https://arxiv.org/pdf/1901.10002.pdf) | 2021 | `Algorithmic Fairness` 
 | Webster et al. | [Measuring and Reducing Gendered Correlations in Pre-trained Models](https://arxiv.org/pdf/2010.06032.pdf) | 2020 | `NLP` `Bias Mitigation` `LLM` |
-
+| Zhang & Zhao | [Online Decision Trees with Fairness](https://arxiv.org/pdf/2010.08146.pdf) | 2020 | `Algorithmic Fairness` | 
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
