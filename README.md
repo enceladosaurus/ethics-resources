@@ -69,7 +69,7 @@
 - [A Practical Guide to Building Ethical AI](https://hbr.org/2020/10/a-practical-guide-to-building-ethical-ai) by Reid Blackman
 - [Artificial Intelligence: examples of ethical dilemmas](https://en.unesco.org/artificial-intelligence/ethics/cases)
 - [Artificial Intelligence in Christian Thought and Practice](https://medium.com/ai-and-christianity/artificial-intelligence-in-christian-thought-and-practice-20ec8635a94f)
-- 
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Books
@@ -90,7 +90,10 @@
 ## Conferences and Events
 
 - AAAI/ACM conference on [Artificial Intelligence, Ethics, and Society (AIES)](https://www.aies-conference.com/2022/)
--
+- Re-Work [AI Ethics Summit](https://www.re-work.co/events/ai-ethics-summit-2022)
+- ORBIT [Women in AI & Ethics](https://www.orbit-rri.org/conference2019/)
+- Artificial Intelligence Applications & Innovations [2nd Workshop on AI and Ethics](https://ifipaiai.org/2022/workshops/?gclid=Cj0KCQiAosmPBhCPARIsAHOen-NvirUKsdonNFoYmc1DtaTfgpOhUZZh51gntpmOAmFJLdQ7UJj_kTAaAttuEALw_wcB#aiethics)
+- IEEE [International Symposium on Technology and Society](https://attend.ieee.org/istas-2021/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
