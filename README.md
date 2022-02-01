@@ -134,8 +134,8 @@
 
 | Authors | Title | Year | Key Topics |
 | ------- | ----- | ---- | ---------- |
-| Aroyo et al. | [Data Excellence for AI: Why Should You Care](https://arxiv.org/ftp/arxiv/papers/2111/2111.10391.pdf) | 2021 | `Data` |
 | Aroyo & Welty | [Truth is a Lie: Crowd Truth and the Seven Myths of Human Annotation](https://ojs.aaai.org/index.php/aimagazine/article/view/2564) | 2015 | `Data` `NLP` |
+| Aroyo et al. | [Data Excellence for AI: Why Should You Care](https://arxiv.org/ftp/arxiv/papers/2111/2111.10391.pdf) | 2021 | `Data` |
 | Bartl et al. | [Unmasking Contextual Stereotypes: Measuring and Mitigating BERT's Gender Bias](https://arxiv.org/pdf/2010.14534.pdf) | 2020 | `NLP` `LLM` `Bias Mitigation` | 
 | Basta et al. | [Evaluating the Underlying Gender Bias in Contextualized Word Embeddings](https://aclanthology.org/W19-3805.pdf) | 2019 | `NLP` `LLM` | 
 | Bender et al. | [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/10.1145/3442188.3445922) | 2021 | `NLP` `LLM` |
@@ -151,7 +151,7 @@
 | Guo & Caliskan | [Detecting Emergent Intersectional Biases: Contextualized Word Embeddings Contain a Distribution of Human-like Biases](https://dl.acm.org/doi/pdf/10.1145/3461702.3462536) | 2021 | `NLP` `LLM` |
 | Hanna et al. | [Towards a Critical Race Methodology in Algorithmic Fairness](https://arxiv.org/pdf/1912.03593.pdf) | 2019 | `Critical Race Theory` `Algorithmic Fairness` |
 | Hardt et al. | [Equality of Opportunity in Supervised Learning](https://arxiv.org/pdf/1610.02413.pdf) | 2016 | `Supervised Learning` `Algorithmic Fairness` |
-[ Hine & Floridi | [Artificial Intelligence with American Values and Chinese Characteristics: A Comparative Analysis of American and Chinese Governmental AI Policies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4006332) | 2022 | `Policy` |
+| Hine & Floridi | [Artificial Intelligence with American Values and Chinese Characteristics: A Comparative Analysis of American and Chinese Governmental AI Policies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4006332) | 2022 | `Policy` |
 | Hutchinson & Mitchell | [50 Years of Test (Un)fairness: Lessons for Machine Learning](http://www.m-mitchell.com/papers/History_of_Fairness-arxiv.pdf) | 2019 | `Algorithmic Fairness` |
 | Hutchinson et al. | [Towards Accountability for Machine Learning Datasets: Practices from Sofftware Engineering and Infrastructure](https://arxiv.org/pdf/2010.13561.pdf) | 2021 | `Data` |
 | Jacobs & Wallach | [Measurement and Fairness](https://arxiv.org/pdf/1912.05511.pdf) | 2021 | `Algorithmic Fairness` | 
