@@ -40,16 +40,30 @@
 ## Websites
 
 - [AI Ethicist](https://www.aiethicist.org/): a global repository of references and resources related to AI ethics
+- [Data & Society](https://datasociety.net/): independent, non-profit research organization studying social implications of data and automation
 - [Cyberculture & Social Justice Directory](http://www.cybercultureandsocialjustice.com/): a directory of research in the broader field of cyber ethics
+- [Future of Humanity Institute](https://www.fhi.ox.ac.uk/): UK research centre with a subdivisions focused on AI governance and safety
 - [AI Ethics Course](https://aiethicscourse.org/): online course in AI ethics
+- [Partnership on AI](https://www.partnershiponai.org): non-profit interdisciplinary collaboration focused on positive AI outcomes
 - [GRACE: Global Review of AI Community Ethics](https://ojs.stanford.edu/ojs/index.php/grace/about): peer-reviewed journal from Stanford University
 - [Interpetable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/): online book by Christoph Molnar
+- [PARC's AI Ethics Committee](https://github.com/PARC/ai-ethics): industry company's AI ethics committee resources
 - [DataEthics](https://dataethics.eu/): a non-profit, politically independent organization focused on data ethics
 - [Data Ethics Canvas](https://theodi.org/article/the-data-ethics-canvas-2021/): a collection of data ethics resources from the Open Data Institute
+- [Center for Human-Compatible Artificial Intelligence](https://humancompatible.ai/): UC Berkeley research group focused on incentivizing beneficial AI
 - [Ethics, Technology, and Engineering](https://www.coursera.org/learn/ethics-technology-engineering): Coursera class on technology & engineering ethics
 - [UNESCO World Commission on the Ethics of Scientific Knowledge and Technology](https://en.unesco.org/themes/ethics-science-and-technology/comest): UNESCO advisory body
+- [AI Now Institute](https://ainowinstitute.org/): New York University research centre devoted to AI accountability
 - [Centre for Digital Ethics](https://centri.unibo.it/digital-ethics/it): University of Bologna center focused on digital ethics (website in Italian)
 - [Fairness and Machine Learning: Limitations and Opportunties](https://fairmlbook.org/): online textbook 
+- [Algorithmic Justice League](https://www.ajl.org/about): organization combining art and research to illuminate social implications and harms of AI
+- [Leverhulme Centre for the Future of Intelligence](http://lcfi.ac.uk/): UK-US research collaboration focused on opportunities and challenges of AI
+- [The Institute for Ethical AI and Machine Learning](https://ethical.institute/): UK-based research centre focused on responsible development and deployment of AI
+- [AddAI](https://www.addai.org/): Sweden-based interdisciplinary collaboration exploring the impact of AI on society
+- [Stop Killer Robots](https://www.stopkillerrobots.org/): global coalition focused on regulating autonomy in weapons systems
+- [Ethics and Governance of AI](https://cyber.harvard.edu/topics/ethics-and-governance-ai): Harvard's Berkman Klein Center group researching ethics and governance of AI
+- [AI Ethics Lab](https://aiethicslab.com/): consulting and research organization focused on AI ethics
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -114,6 +128,13 @@
 - [Algorithms aren't racist. Your skin is just too dark](https://medium.com/hackernoon/algorithms-arent-racist-your-skin-is-just-too-dark-4ed31a7304b8)
 - [The Perpetual Line-up: Unregulated Police Face Recognition in America](https://www.perpetuallineup.org/)
 - [The Hidden Biases in Big Data](https://hbr.org/2013/04/the-hidden-biases-in-big-data)
+- [The Moral Gray Space of AI Decisions](https://ai.shorensteincenter.org/ideas/2018/12/1/the-moral-gray-space-of-ai-decisions-6sc59)
+- [Unfairness by Algorithm: Distilling the Harms of Automated Decision Making](https://fpf.org/blog/unfairness-by-algorithm-distilling-the-harms-of-automated-decision-making/)
+- [AI Safety Needs Social Scientists](https://distill.pub/2019/safety-needs-social-scientists/)
+- Machine Intelligence Research Institute's [Artificial Intelligence as a Positive and Negative Factor in Global Risk](https://intelligence.org/files/AIPosNegFactor.pdf)
+- Machine Intelligence Research Institute's [The Ethics of Artificial Intelligence](https://intelligence.org/files/EthicsofAI.pdf)
+- Future of Humanity Institute's [AI Governance: A Research Agenda](https://www.fhi.ox.ac.uk/wp-content/uploads/GovAI-Agenda.pdf)
+- 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -232,6 +253,7 @@
 | Taddeo & Floridi | [How AI can be a force for good](https://science.sciencemag.org/content/361/6404/751) | 2018 | `Guidelines & Recommendations` |
 | Tene & Polonetsky | [Taming the Golem: Challenges of Ethical Algorithmic Decision Making](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2981466) | 2017 | `Algorithmic Fairness` |
 | Tsamados et al. | [The ethics of algorithms: key problems and solutions](https://link.springer.com/article/10.1007/s00146-021-01154-8) | 2021 | `Algorithmic Fairness`|
+| Vakkuri et al. | [AI Ethics in Industry: A Research Framework](https://jyx.jyu.fi/handle/123456789/67326) | 2019 | `Guidelines & Suggestions` `XAI` | 
 | Webster et al. | [Measuring and Reducing Gendered Correlations in Pre-trained Models](https://arxiv.org/pdf/2010.06032.pdf) | 2020 | `NLP` `Bias Mitigation` `LLM` |
 | Wu & Zhang | [Responses to Critiques on Machine Learning of Criminality Perceptions](https://arxiv.org/pdf/1611.04135.pdf) | 2017 | `Algorithmic Fairness` `Computer Vision` | 
 | Zarsky, T. | [The Trouble with Algorithmic Decisions: An Analytic Road Map to Examine Efficiency and Fairness in Automated and Opaque Decision Making](https://journals.sagepub.com/doi/abs/10.1177/0162243915605575) | 2015 | `Privacy` `XAI` |
