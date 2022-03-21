@@ -63,6 +63,7 @@
 - [Stop Killer Robots](https://www.stopkillerrobots.org/): global coalition focused on regulating autonomy in weapons systems
 - [Ethics and Governance of AI](https://cyber.harvard.edu/topics/ethics-and-governance-ai): Harvard's Berkman Klein Center group researching ethics and governance of AI
 - [AI Ethics Lab](https://aiethicslab.com/): consulting and research organization focused on AI ethics
+- [Ethics of AI](https://ethics-of-ai.mooc.fi/): MOOC by the University of Helsinki
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -134,7 +135,12 @@
 - Machine Intelligence Research Institute's [Artificial Intelligence as a Positive and Negative Factor in Global Risk](https://intelligence.org/files/AIPosNegFactor.pdf)
 - Machine Intelligence Research Institute's [The Ethics of Artificial Intelligence](https://intelligence.org/files/EthicsofAI.pdf)
 - Future of Humanity Institute's [AI Governance: A Research Agenda](https://www.fhi.ox.ac.uk/wp-content/uploads/GovAI-Agenda.pdf)
-- 
+- [The ART of AI - Accountability, Responsibility, and Transparency](https://medium.com/@virginiadignum/the-art-of-ai-accountability-responsibility-transparency-48666ec92ea5)
+- [AI or More? A Risk-based Approach to a Technology-based Society](https://www.law.ox.ac.uk/business-law-blog/blog/2021/09/ai-or-more-risk-based-approach-technology-based-society)
+- The European Parliament's [Artificial Intelligence: From ethics to policy](https://www.europarl.europa.eu/RegData/etudes/STUD/2020/641507/EPRS_STU(2020)641507_EN.pdf)
+- The Centre for Information Policy Leadership's [Hard Issues and Practical Solutions](https://www.huntonprivacyblog.com/wp-content/uploads/sites/28/2020/03/cipl_second_report_-_artificial_intelligence_and_data_protection_-_hard_issues_and_practical_solutions__27_february_2020_1.pdf)
+- [6 types of AI bias everyone should know](https://www.seldon.io/6-types-of-ai-bias)
+- [ML bias: guidelines to make ML models ethical and reduce risks of discrimination](https://medium.com/glovo-engineering/ml-bias-guidelines-to-make-ml-models-ethical-and-reduce-risks-of-discrimination-1c7165f74210)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -228,6 +234,7 @@
 | Joseph et al. | [Fairness in Learning: Classic and Contextual Bandits](https://papers.nips.cc/paper/2016/hash/eb163727917cbba1eea208541a643e74-Abstract.html) | 2016 | `Algorithmic Fairness` `RL` | 
 | Jung et al. | [Simple Rules for Complex Decisions](https://arxiv.org/pdf/1702.04690.pdf)| 2017 | `Guidelines & Suggestions` | 
 | Kaptein & Eckles | [Selecting Effective Means to Any End; Futures and Ethics of Persuasion Profiling](https://link.springer.com/chapter/10.1007/978-3-642-13226-1_10) | 2010 | `Policy` |
+| Kerr et al. | [Expectations of artificial intelligence and the performativity of ethics: implications for communication governance](https://journals.sagepub.com/doi/full/10.1177/2053951720915939) | 2020 | `Policy` |
 | Kleinberg et al. | [Inherent Trade-Offs in the Fair Determination of Risk Scores](https://arxiv.org/abs/1609.05807) | 2016 | `Algorithmic Fairness` |
 | Kochelek, D. | [Data Mining and Antitrust](http://jolt.law.harvard.edu/articles/pdf/v22/22HarvJLTech515.pdf) | 2009 | `Data` `Privacy` | 
 | Kosinski et al. | [Private traits and attributes are predictable from digital records of human behavior](https://www.pnas.org/content/110/15/5802) | 2013 | `Privacy` `Data` | 
@@ -239,6 +246,7 @@
 | Liu et al. | [Privacy and Security Issues in Deep Learning: A Survey](https://ieeexplore.ieee.org/document/9294026) | 2021 | `Privacy` | 
 | Matthews et al. | [Gender Bias in Natural Language Processing Across Human Languages](https://aclanthology.org/2021.trustnlp-1.6.pdf) | 2021 | `NLP` `LLM` | 
 | McGregor, S. | [Preventing Repeated Real World AI Failures by Cataloging Incidents: The AI Incident Database](https://arxiv.org/pdf/2011.08512.pdf) | 2020 | `Datasets`|
+| Mehrabi et al. | [A Survey on Bias and Fairness in Machine Learning](https://arxiv.org/pdf/1908.09635.pdf) | 2022 | `Algorithmic Fairness`
 | Mitchell et al. | [Model Cards for Model Reporting](https://arxiv.org/pdf/1810.03993.pdf) | 2019 | `Data` `XAI` | 
 | Nadeem et al. | [StereoSet: Measuring stereotypical bias in pretrained language models](https://arxiv.org/pdf/2004.09456.pdf) | 2020 | `NLP` `LLM` `Datasets` |
 | Nangia et al. | [CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models](https://arxiv.org/pdf/2010.00133.pdf) | 2020 | `NLP` `LLM` `Datasets` |
