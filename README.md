@@ -198,6 +198,7 @@
 | Buolamwini & Gebru | [Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification](https://dam-prod.media.mit.edu/x/2018/02/06/Gender%20Shades%20Intersectional%20Accuracy%20Disparities.pdf) | 2018 | `Computer Vision` `Algorithmic Fairness` `Data` | 
 | Caliskan et al. | [Semantics derived automatically form language corpora contain human-like biases](https://arxiv.org/abs/1608.07187) | 2017 | `NLP` | 
 | Chen et al. | [Enhancing Transparency and Control When Drawing Data-Driven Inferences About Individuals](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5647518/) | 2017 | `Data` `Privacy`|
+| Cho et al. | [DALL-Eval: Probing the Reasoning Skills and Social Biased of Text-to-Image Generative Transformers](https://arxiv.org/abs/2202.04053) | 2022 | `Computer Vision` |
 | Citron & Pasquale | [The Scored Society: Due Process for Automated Predictions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2376209) | 2014 | `Data` | 
 | Cooper, J. | [Separation Anxiety](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2655794) | 2017 | `Privacy` `Policy` | 
 | Crawford & Schultz | [Big Data and Due Process: Toward a Framework to Redress Predictive Privacy Harms](https://lawdigitalcommons.bc.edu/bclr/vol55/iss1/4/) | 2014 | `Data` `Privacy` `Policy` | 
@@ -260,6 +261,7 @@
 | Swedloff, R. | [Risk Classification's Big Data (R)evolution](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2566594) | 2014 | `Data` `Algorithmic Fairness` | 
 | Taddeo & Floridi | [How AI can be a force for good](https://science.sciencemag.org/content/361/6404/751) | 2018 | `Guidelines & Recommendations` |
 | Tene & Polonetsky | [Taming the Golem: Challenges of Ethical Algorithmic Decision Making](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2981466) | 2017 | `Algorithmic Fairness` |
+| Thylstrup, N. | [The ethics and politics of data sets in the age of machine learning: deleting traces and encountering remains](https://journals.sagepub.com/doi/abs/10.1177/01634437211060226?journalCode=mcsa) | 2022 | `Data` `Privacy` |
 | Tsamados et al. | [The ethics of algorithms: key problems and solutions](https://link.springer.com/article/10.1007/s00146-021-01154-8) | 2021 | `Algorithmic Fairness`|
 | Vakkuri et al. | [AI Ethics in Industry: A Research Framework](https://jyx.jyu.fi/handle/123456789/67326) | 2019 | `Guidelines & Suggestions` `XAI` | 
 | Webster et al. | [Measuring and Reducing Gendered Correlations in Pre-trained Models](https://arxiv.org/pdf/2010.06032.pdf) | 2020 | `NLP` `Bias Mitigation` `LLM` |
