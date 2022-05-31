@@ -64,6 +64,8 @@
 - [Ethics and Governance of AI](https://cyber.harvard.edu/topics/ethics-and-governance-ai): Harvard's Berkman Klein Center group researching ethics and governance of AI
 - [AI Ethics Lab](https://aiethicslab.com/): consulting and research organization focused on AI ethics
 - [Ethics of AI](https://ethics-of-ai.mooc.fi/): MOOC by the University of Helsinki
+- [European Network of Human-Centered Artificial Intelligence](https://www.humane-ai.eu/): EU funded organization for ethical AI
+- [FARI: AI Institute for the Common Good](https://fari.brussels/): Brussels-based, not-for-profit academic collaboration
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -203,6 +205,7 @@
 | Cooper, J. | [Separation Anxiety](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2655794) | 2017 | `Privacy` `Policy` | 
 | Crawford & Schultz | [Big Data and Due Process: Toward a Framework to Redress Predictive Privacy Harms](https://lawdigitalcommons.bc.edu/bclr/vol55/iss1/4/) | 2014 | `Data` `Privacy` `Policy` | 
 | Davis & Osoba | [Privacy Preservation in the Age of Big Data](https://www.rand.org/pubs/working_papers/WR1161.html) | 2016 | `Privacy` `Data` |
+| Devinney et al. | [Theories of "Gender" in NLP Bias Research](https://arxiv.org/pdf/2205.02526.pdf) | 2022 | `NLP` `Bias Mitigation` |
 | Diakopoulos, N. | [Algorithmic Accountability: Journalistic investigation of computational power structures](https://www.tandfonline.com/doi/abs/10.1080/21670811.2014.976411) | 2014 | `Algorithmic Fairness` |
 | Dietvorst et al. | [Algorithm Aversion: People Erroneously Avoid Algorithms After Seeing Them Err](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1392&context=fnce_papers#:~:text=We%20show%20that%20people%20are,them%20make%20the%20same%20mistake.) | 2015 | `Policy`| 
 | Dillon, S. | [The Eliza Effect and Its Dangers: From Demystification to Gender Critique](https://www.repository.cam.ac.uk/bitstream/handle/1810/304211/Dillon%20The%20Eliza%20Effect%20JCR.pdf?sequence=1&isAllowed=n) | 2020 | `Virtual Assistants` `Feminism` |
