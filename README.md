@@ -102,6 +102,7 @@
 - [Artificial intelligence and its ethics](https://www.youtube.com/watch?v=Izd2qOgOGQI)
 - [Coded Bias](https://www.imdb.com/title/tt11394170/)
 - [Bias in AI: Teaching machines to think responsibly](https://lens.monash.edu/@what-happens-next/2021/09/10/1383751/whnpodcast-bias-in-ai-s5-part2)
+- [The Fight for "Ethical AI" and the Hidden Laborers Behind Artificial Intelligence](https://www.kqed.org/forum/2010101891105/the-fight-for-ethical-ai-and-the-hidden-laborers-behind-artificial-intelligence)
 
 
 
@@ -143,6 +144,8 @@
 - The Centre for Information Policy Leadership's [Hard Issues and Practical Solutions](https://www.huntonprivacyblog.com/wp-content/uploads/sites/28/2020/03/cipl_second_report_-_artificial_intelligence_and_data_protection_-_hard_issues_and_practical_solutions__27_february_2020_1.pdf)
 - [6 types of AI bias everyone should know](https://www.seldon.io/6-types-of-ai-bias)
 - [ML bias: guidelines to make ML models ethical and reduce risks of discrimination](https://medium.com/glovo-engineering/ml-bias-guidelines-to-make-ml-models-ethical-and-reduce-risks-of-discrimination-1c7165f74210)
+- [A People's Guide to Finding Algorithmic Bias](https://www.criticalracedigitalstudies.com/peoplesguide)
+- [Governing data and artificial intelligence for all: Models for sustainable and just data governance](https://www.europarl.europa.eu/stoa/en/document/EPRS_STU(2022)729533)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -164,6 +167,17 @@
 - [Profiles, Probabilities, and Stereotypes](https://www.hup.harvard.edu/catalog.php?isbn=9780674021181) by Frederick Schauer
 - [Privacy, Due Process, and the Computational Turn](https://www.bokus.com/bok/9780415644815/privacy-due-process-and-the-computational-turn/) edited by Mireille Hildebrandt and Katja de Vries
 - [The GDPR Challenge: Privacy, Technology, and Compliance in an Age of Accelerating Change](https://www.routledge.com/The-GDPR-Challenge-Privacy-Technology-and-Compliance-in-an-Age-of-Accelerating/Taal/p/book/9780367257262) edited by Amie Taal
+- [Viral Justice: How We Grow the World We Want](https://press.princeton.edu/books/hardcover/9780691222882/viral-justice) by Ruha Benjamin
+- [Design Justice: Community-Led Practices To Build the Worlds We Need](https://mitpress.mit.edu/9780262043458/design-justice/) by Sasha Costanza-Chock
+- [Technology and the Virtues](https://global.oup.com/academic/product/technology-and-the-virtues-9780190498511?cc=se&lang=en&) by Shannon Vallor
+- [Privacy in Context: Technology, Policy, and the Integrity of Social Life](https://www.sup.org/books/title/?id=8862) by Helen Nissenbaum
+- [The Age of Surveillance Capitalism](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/) by Shoshana Zuboff
+- [Privacy is Power: Why And How You Should Take Back Control Of Your Data](https://www.adlibris.com/se/bok/privacy-is-power-9780552177719) by Carissa Véliz
+- [Hello World: How to be Human in the Age of the Machine](https://hannahfry.co.uk/book/hello-world/) by Hannah Fry
+- [Programmed Inequality: How Britain Discarded Women Technologists and Lost Its Edge in Computing](https://mitpress.mit.edu/9780262535182/programmed-inequality/) by Mar Hicks
+- [Behind the Screen: Content Moderation in the Shadows of Social Media](https://yalebooks.yale.edu/book/9780300261479/behind-the-screen/) by Sarah T. Roberts
+- [Invisible Women: Exposing Data Bias In A World Designed For Men](https://carolinecriadoperez.com/book/invisible-women/) by Caroline Criado Perez
+- [Predict and Surveil: Data, Discretion, And The Future Of Policing](https://global.oup.com/academic/product/predict-and-surveil-9780190684099?cc=se&lang=en&) by Sarah Brayne
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -195,6 +209,7 @@
 | Bertrand & Mullainathan | [Are Emily and Greg More Employable Than Lakisha and Jamal? A Field Experiment on Labor Market Discrimination](https://www.aeaweb.org/articles?id=10.1257/0002828042002561) | 2004 | `Social Justice` |
 | Birhane, A. | [Algorithmic injustice: a relational ethics approach](https://www.cell.com/patterns/fulltext/S2666-3899(21)00015-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666389921000155%3Fshowall%3Dtrue) | 2021 | `Algorithmic Fairness` `Feminism` |
 | Bolukbasi et al. | [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/abs/1607.06520) | 2016 | `NLP` `Bias Mitigation` `LLM` | 
+| Brandusescu & Reia | [Artificial Intelligence in the City: Building Civic Engagement and Public Trust](https://libraopen.lib.virginia.edu/public_view/5t34sj769) | 2022 | `Data` `Policy` | 
 | Brey et al. | [An ethical framework for the development and use of AI and robotics technologies](https://www.sienna-project.eu/digitalAssets/801/c_801912-l_1-k_d4.7_ethical-framework-for-ai--robotics_v2.pdf) | 2020 | `Guidelines & Recommendations` | 
 | Burrell, J. | [How the machine "thinks": Understanding opacity in machine learning algorithms](https://journals.sagepub.com/doi/full/10.1177/2053951715622512) | 2016 | `XAI` | 
 | Buolamwini & Gebru | [Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification](https://dam-prod.media.mit.edu/x/2018/02/06/Gender%20Shades%20Intersectional%20Accuracy%20Disparities.pdf) | 2018 | `Computer Vision` `Algorithmic Fairness` `Data` | 
@@ -251,9 +266,11 @@
 | Matthews et al. | [Gender Bias in Natural Language Processing Across Human Languages](https://aclanthology.org/2021.trustnlp-1.6.pdf) | 2021 | `NLP` `LLM` | 
 | McGregor, S. | [Preventing Repeated Real World AI Failures by Cataloging Incidents: The AI Incident Database](https://arxiv.org/pdf/2011.08512.pdf) | 2020 | `Datasets`|
 | Mehrabi et al. | [A Survey on Bias and Fairness in Machine Learning](https://arxiv.org/pdf/1908.09635.pdf) | 2022 | `Algorithmic Fairness`
+| Miceli et al. | [Documenting Data Production Processes: A Participatory Approach for Data Work](https://arxiv.org/pdf/2207.04958.pdf) | 2022 | `Data` `Guidelines & Recommendations` | 
 | Mitchell et al. | [Model Cards for Model Reporting](https://arxiv.org/pdf/1810.03993.pdf) | 2019 | `Data` `XAI` | 
 | Nadeem et al. | [StereoSet: Measuring stereotypical bias in pretrained language models](https://arxiv.org/pdf/2004.09456.pdf) | 2020 | `NLP` `LLM` `Datasets` |
 | Nangia et al. | [CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models](https://arxiv.org/pdf/2010.00133.pdf) | 2020 | `NLP` `LLM` `Datasets` |
+| Prabhakaran et al. | [A Human Rights-Based Approach to Responsible AI](https://arxiv.org/abs/2210.02667) | 2022 | `Algorithmic Fairness` `Guidelines & Recommendations` | 
 | Prabhu & Birhane | [Large Datasets: A Pyrrhic Win for Computer Vision?](https://arxiv.org/pdf/2006.16923.pdf) | 2020 | `Computer Vision` `Data` | 
 | Raji & Buolamwini | [Actionable Auditing: Investigating the Impact of Publicly Naming Biased Performance Results of Commercial AI Products](https://dam-prod.media.mit.edu/x/2019/01/24/AIES-19_paper_223.pdf) | 2019 | `Algorithmic Fairness` |
 | Ryan & Stahl | [Artificial intelligence ethics guidelines for developers and users: clarifying their content and normative implications](https://www.researchgate.net/publication/342080262_Artificial_intelligence_ethics_guidelines_for_developers_and_users_clarifying_their_content_and_normative_implications) | 2020 | `Guidelines & Recommendations` | 
