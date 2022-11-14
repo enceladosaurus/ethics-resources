@@ -72,7 +72,7 @@
 
 ## Talks
 
-- [Hierarchy of KNowledge in ML & Related Fields and its Consequences](https://www.youtube.com/watch?v=OL3DowBM9uc): Timnit Gebru
+- [Hierarchy of Knowledge in ML & Related Fields and its Consequences](https://www.youtube.com/watch?v=OL3DowBM9uc): Timnit Gebru
 - [Understanding the Limits of AI: When Algorithms Fail](https://www.youtube.com/watch?v=QqZVx6NCkPg): Timnit Gebru
 - [From Ethics to Organizing: Getting Serious About AI](https://www.youtube.com/watch?v=_BzU0bD0Ics): Meredith Whittaker 
 - [Talking about AI Ethics: Democracy, Privacy, and Work](https://www.youtube.com/watch?v=6m19a84ym94): Panel
