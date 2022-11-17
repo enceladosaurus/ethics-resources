@@ -146,6 +146,7 @@
 - [ML bias: guidelines to make ML models ethical and reduce risks of discrimination](https://medium.com/glovo-engineering/ml-bias-guidelines-to-make-ml-models-ethical-and-reduce-risks-of-discrimination-1c7165f74210)
 - [A People's Guide to Finding Algorithmic Bias](https://www.criticalracedigitalstudies.com/peoplesguide)
 - [Governing data and artificial intelligence for all: Models for sustainable and just data governance](https://www.europarl.europa.eu/stoa/en/document/EPRS_STU(2022)729533)
+- National Institute of Standards and Technology (NIST)'s [AI Risk Management Framework: Second Draft](https://www.nist.gov/system/files/documents/2022/08/18/AI_RMF_2nd_draft.pdf)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
