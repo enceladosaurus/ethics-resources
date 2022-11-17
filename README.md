@@ -66,6 +66,7 @@
 - [Ethics of AI](https://ethics-of-ai.mooc.fi/): MOOC by the University of Helsinki
 - [European Network of Human-Centered Artificial Intelligence](https://www.humane-ai.eu/): EU funded organization for ethical AI
 - [FARI: AI Institute for the Common Good](https://fari.brussels/): Brussels-based, not-for-profit academic collaboration
+- [Distributed AI Research Institute](https://www.dair-institute.org/): an interdisciplinary and globally distributed AI research institute
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
