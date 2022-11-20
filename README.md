@@ -155,7 +155,7 @@
 
 - [The Oxford Handbook of Ethics of AI](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190067397.001.0001/oxfordhb-9780190067397)
 - [Responsible Artificial Intelligence: How to Develop and Use AI in a Responsible Way](https://philpapers.org/rec/DIGRAI) by Virginia Dignum
-- [The Ethical Algorithm: The Science of Socially Aware Algorithm Design](https://www.adlibris.com/se/bok/the-ethical-algorithm-9780190948207?gclid=Cj0KCQiA_8OPBhDtARIsAKQu0gbcVOhkNH_tjphsNP5wm1KznTWXHDkCJJIlri3aHXaAfEey8rGFyxgaAjPFEALw_wcB) by Michael Kearns
+- [The Ethical Algorithm: The Science of Socially Aware Algorithm Design](https://www.adlibris.com/se/bok/the-ethical-algorithm-9780190948207?gclid=Cj0KCQiA_8OPBhDtARIsAKQu0gbcVOhkNH_tjphsNP5wm1KznTWXHDkCJJIlri3aHXaAfEey8rGFyxgaAjPFEALw_wcB) by Aaron Roth and Michael Kearns
 - [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://www.adlibris.com/se/bok/weapons-of-math-destruction-9780141985411?gclid=Cj0KCQiA_8OPBhDtARIsAKQu0gYiPDTv9HX_sDhumMngHt7JBssR02P_TyPSrEaufGyNFn7VOHV8eKEaAgOKEALw_wcB) by Cathy O'Neil
 - [Hello World: Being Human in the Age of Algorithms](https://www.adlibris.com/se/bok/hello-world-9781784163068?gclid=Cj0KCQiA_8OPBhDtARIsAKQu0gZyQO-UQTMFtg77hbTcgIIlaU7WPDeuBVAYfks0NoTTHdb6BJKeTAsaAv_3EALw_wcB) by Hannah Fry
 - [Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor](https://www.adlibris.com/se/bok/automating-inequality-how-high-tech-tools-profile-police-and-punish-the-poor-9781250215789) by Virginia Eubanks
@@ -180,6 +180,8 @@
 - [Behind the Screen: Content Moderation in the Shadows of Social Media](https://yalebooks.yale.edu/book/9780300261479/behind-the-screen/) by Sarah T. Roberts
 - [Invisible Women: Exposing Data Bias In A World Designed For Men](https://carolinecriadoperez.com/book/invisible-women/) by Caroline Criado Perez
 - [Predict and Surveil: Data, Discretion, And The Future Of Policing](https://global.oup.com/academic/product/predict-and-surveil-9780190684099?cc=se&lang=en&) by Sarah Brayne
+- [Ethical Machines: Your Concise GUide to Totally Unbiased, Transparent, and Respectful AI](https://store.hbr.org/product/ethical-machines-your-concise-guide-to-totally-unbiased-transparent-and-respectful-ai/10539) by Reid Blackman
+- [AI Superpowers: China, Silicon Valley, and the New World ORder](https://www.adlibris.com/se/bok/ai-superpowers-9781328546395) by Kai-Fu Lee
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
