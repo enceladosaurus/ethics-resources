@@ -88,6 +88,7 @@
 - [AI, Ethics, and Society: A Primer](https://www.youtube.com/watch?v=DBXZ3oEF6Yc): Daniel Bashir
 - [AI Ethics for Enterprise AI](https://www.youtube.com/watch?v=9YrQLSAyNs0): Francesca Rossi
 - [How to develop and use AI responsibly](https://www.youtube.com/watch?v=eHWSQo1hqTI): Virginia Dignum
+- [Embedding Ethics in Machine Learning](https://www.youtube.com/watch?v=R_G7cUuS84M): International Centre for Theoretical Physics
 
 
 ## Podcasts, YouTube Channels, & Documentaries
