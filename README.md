@@ -105,6 +105,7 @@
 - [Coded Bias](https://www.imdb.com/title/tt11394170/)
 - [Bias in AI: Teaching machines to think responsibly](https://lens.monash.edu/@what-happens-next/2021/09/10/1383751/whnpodcast-bias-in-ai-s5-part2)
 - [The Fight for "Ethical AI" and the Hidden Laborers Behind Artificial Intelligence](https://www.kqed.org/forum/2010101891105/the-fight-for-ethical-ai-and-the-hidden-laborers-behind-artificial-intelligence)
+- [Living with Artificial Intelligence (BBC - The Reith Lectures)](https://www.bbc.co.uk/programmes/m001216k/episodes/player)
 
 
 
