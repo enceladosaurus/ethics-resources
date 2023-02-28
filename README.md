@@ -89,7 +89,7 @@
 - [AI Ethics for Enterprise AI](https://www.youtube.com/watch?v=9YrQLSAyNs0): Francesca Rossi
 - [How to develop and use AI responsibly](https://www.youtube.com/watch?v=eHWSQo1hqTI): Virginia Dignum
 - [Embedding Ethics in Machine Learning](https://www.youtube.com/watch?v=R_G7cUuS84M): International Centre for Theoretical Physics
-
+- [Resisting dehumanization in the age of AI](https://www.youtube.com/watch?v=wuU-5rGPbyg&ab_channel=CogSci%3AInterdisciplinaryStudyoftheMind): Emily Bender
 
 ## Podcasts, YouTube Channels, & Documentaries
 
@@ -106,7 +106,7 @@
 - [Bias in AI: Teaching machines to think responsibly](https://lens.monash.edu/@what-happens-next/2021/09/10/1383751/whnpodcast-bias-in-ai-s5-part2)
 - [The Fight for "Ethical AI" and the Hidden Laborers Behind Artificial Intelligence](https://www.kqed.org/forum/2010101891105/the-fight-for-ethical-ai-and-the-hidden-laborers-behind-artificial-intelligence)
 - [Living with Artificial Intelligence (BBC - The Reith Lectures)](https://www.bbc.co.uk/programmes/m001216k/episodes/player)
-
+- [Don't Fall for the AI Hype w/ Timnit Gebru - Tech Won't Save Us](https://podcasts.apple.com/podcast/dont-fall-for-the-ai-hype-w-timnit-gebru/id1507621076?i=1000595385583)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -124,6 +124,7 @@
 - [Against Black Inclusion in Facial Recognition](https://digitaltalkingdrum.com/2017/08/15/against-black-inclusion-in-facial-recognition/)
 - [Artificial Intelligence in Christian Thought and Practice](https://medium.com/ai-and-christianity/artificial-intelligence-in-christian-thought-and-practice-20ec8635a94f)
 - [Algorithms Need Managers, Too](https://hbr.org/2016/01/algorithms-need-managers-too)
+- [Rent Going Up? One Company's Algorithm Could Be Why](https://www.propublica.org/article/yieldstar-rent-increase-realpage-rent)
 - [Physiognomy's New Clothes](https://medium.com/@blaisea/physiognomys-new-clothes-f2d4b59fdd6a)
 - [How big data is unfair](http://www.cs.yale.edu/homes/jf/HardtHowBigDataIsUnfair.pdf)
 - [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
@@ -143,13 +144,41 @@
 - Future of Humanity Institute's [AI Governance: A Research Agenda](https://www.fhi.ox.ac.uk/wp-content/uploads/GovAI-Agenda.pdf)
 - [The ART of AI - Accountability, Responsibility, and Transparency](https://medium.com/@virginiadignum/the-art-of-ai-accountability-responsibility-transparency-48666ec92ea5)
 - [AI or More? A Risk-based Approach to a Technology-based Society](https://www.law.ox.ac.uk/business-law-blog/blog/2021/09/ai-or-more-risk-based-approach-technology-based-society)
+- [Keeping an Eye on Landlord Tech](https://shelterforce.org/2021/03/25/keeping-an-eye-on-landlord-tech/)
 - The European Parliament's [Artificial Intelligence: From ethics to policy](https://www.europarl.europa.eu/RegData/etudes/STUD/2020/641507/EPRS_STU(2020)641507_EN.pdf)
 - The Centre for Information Policy Leadership's [Hard Issues and Practical Solutions](https://www.huntonprivacyblog.com/wp-content/uploads/sites/28/2020/03/cipl_second_report_-_artificial_intelligence_and_data_protection_-_hard_issues_and_practical_solutions__27_february_2020_1.pdf)
 - [6 types of AI bias everyone should know](https://www.seldon.io/6-types-of-ai-bias)
 - [ML bias: guidelines to make ML models ethical and reduce risks of discrimination](https://medium.com/glovo-engineering/ml-bias-guidelines-to-make-ml-models-ethical-and-reduce-risks-of-discrimination-1c7165f74210)
+- [Blueprint for an AI Bill of Rights](https://www.whitehouse.gov/wp-content/uploads/2022/10/Blueprint-for-an-AI-Bill-of-Rights.pdf)
 - [A People's Guide to Finding Algorithmic Bias](https://www.criticalracedigitalstudies.com/peoplesguide)
 - [Governing data and artificial intelligence for all: Models for sustainable and just data governance](https://www.europarl.europa.eu/stoa/en/document/EPRS_STU(2022)729533)
+- [Algorithmic Bias in Health Care Exacerbates Social Inequities - How to Prevent It](https://www.hsph.harvard.edu/ecpe/how-to-prevent-algorithmic-bias-in-health-care/) 
+- [Is facial recognition too biased to be let loose?](https://www.nature.com/articles/d41586-020-03186-4)
 - National Institute of Standards and Technology (NIST)'s [AI Risk Management Framework: Second Draft](https://www.nist.gov/system/files/documents/2022/08/18/AI_RMF_2nd_draft.pdf)
+- [The hidden danger of ChatGPT and generative AI](https://venturebeat.com/ai/the-hidden-danger-of-chatgpt-and-generative-ai-the-ai-beat/) 
+- [A People's Guide to Finding Algorithmic Bias](https://www.criticalracedigitalstudies.com/peoplesguide)
+- [Probing by Priming: What do Large Language Models know about Grammar?](https://resources.illc.uva.nl/illc-blog/probing-by-priming-what-do-large-language-models-know-about-grammar/)
+- [Millions of black people affected by racial bias in health-care algorithms](https://www.nature.com/articles/d41586-019-03228-6)
+- [When Black Death Goes Viral: How Algorithms of Oppression (Re)Produce Racism and Racial Trauma](https://perspectivesblog.sagepub.com/blog/research/when-black-death-goes-viral-how-algorithms-of-oppression-reproduce-racism-and-racial-trauma?utm_source=twitter&utm_medium=SAGE_social&utm_content=sagejournals&utm_term=bb6e34b8-8114-4d64-a6c8-886c237aa053&utm_campaign=sageperspectives)
+- [Ban dangerous facial recognition technology that amplifies racist policing](https://www.amnesty.org/en/latest/press-release/2021/01/ban-dangerous-facial-recognition-technology-that-amplifies-racist-policing/)
+- [Medical Algorithms are Failing Communities of Color](https://www.healthaffairs.org/do/10.1377/forefront.20210903.976632/)
+- [Stop feeding the hype and start resisting](https://irisvanrooijcogsci.com/2023/01/14/stop-feeding-the-hype-and-start-resisting/)
+- [Terms-we-Serve-with: Introducing a new mechanism for engaging with algorithmic systems](https://foundation.mozilla.org/en/blog/terms-we-serve-with-introducing-a-new-mechanism-for-engaging-with-algorithmic-systems/)
+- [Do algorithms reveal sexual orientation or just expose our stereotypes?](https://medium.com/@blaisea/do-algorithms-reveal-sexual-orientation-or-just-expose-our-stereotypes-d998fafdf477)
+- [How is Face Recognition Surveillance Technology Racist?](https://www.aclu.org/news/privacy-technology/how-is-face-recognition-surveillance-technology-racist)
+- (Paywall) [The Racist History Behind Facial Recognition](https://www.nytimes.com/2019/07/10/opinion/facial-recognition-race.html)
+- [Introducing the AI Mirror Test, which very smart people keep failing](https://www.theverge.com/23604075/ai-chatbots-bing-chatgpt-intelligent-sentient-mirror-test)
+- [Silicon Valley is Turning Into Its Own Worst Fear](https://www.buzzfeednews.com/article/tedchiang/the-real-danger-to-civilization-isnt-ai-its-runaway)
+- [Superintelligence: The Idea That Eats Smart People](https://idlewords.com/talks/superintelligence.htm)
+- [Artificial Intelligence](https://hdsr.mitpress.mit.edu/pub/0aytgrau/release/3)
+- [Raging robots, hapless humans: The AI dystopia](https://www.nature.com/articles/d41586-019-02939-0)
+- [Data Brokers: A Call for Transparency and Accountability](https://www.ftc.gov/system/files/documents/reports/data-brokers-call-transparency-accountability-report-federal-trade-commission-may-2014/140527databrokerreport.pdf)
+- [Data Brokers Know Where You Are - and Want to Sell That Intel](https://www.wired.com/story/opinion-data-brokers-know-where-you-are-and-want-to-sell-that-intel/)
+- [The Exploited Labor Behind Artificial Intelligence](https://www.noemamag.com/the-exploited-labor-behind-artificial-intelligence/)
+- [AI is finally good at stuff and that's a problem](https://www.vox.com/recode/2022/12/7/23498694/ai-artificial-intelligence-chat-gpt-openai)
+- [DeepMind's CEO Helped Take AI Mainstream. How He's Urging Caution](https://time.com/6246119/demis-hassabis-deepmind-interview/)
+
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -184,6 +213,14 @@
 - [Predict and Surveil: Data, Discretion, And The Future Of Policing](https://global.oup.com/academic/product/predict-and-surveil-9780190684099?cc=se&lang=en&) by Sarah Brayne
 - [Ethical Machines: Your Concise GUide to Totally Unbiased, Transparent, and Respectful AI](https://store.hbr.org/product/ethical-machines-your-concise-guide-to-totally-unbiased-transparent-and-respectful-ai/10539) by Reid Blackman
 - [AI Superpowers: China, Silicon Valley, and the New World ORder](https://www.adlibris.com/se/bok/ai-superpowers-9781328546395) by Kai-Fu Lee
+- [Economies of Virtue: The Circulation of 'Ethics' in AI](https://networkcultures.org/wp-content/uploads/2022/12/EconomiesofVirtueINC2022TOD46-2.pdf) edited by Thao Phan, Jake Goldenfein, Declan Kuch, & Monique Mann
+- [Resisting AI: An Anti-Fascist Approach to Artificial Intelligence](https://bristoluniversitypress.co.uk/resisting-ai) by Dan McQuillan
+- (Releasing 2024) [Artificial Borders: AI, Surveillance, & Border Tech Experiments](https://www.petramolnar.com/) by Petra Molnar
+- [Human Compatible: Artifical Intelligence and the Problem of Control](https://www.penguinrandomhouse.com/books/566677/human-compatible-by-stuart-russell/) by Stuart Russell
+- [This is Technology Ethics: An Introduction](https://www.wiley.com/en-us/This+is+Technology+Ethics:+An+Introduction-p-9781119755586) by Sven Nyholm
+- [Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence](https://yalebooks.yale.edu/book/9780300264630/atlas-of-ai/) by Kate Crawford
+- [Your Computer Is On Fire](https://mitpress.mit.edu/9780262539739/your-computer-is-on-fire/) edited by Thomas S. Mullaney, Benjamin Peters, Mar Hicks, and Kavita Philip
+- [Data Driven: Truckers, Technology, and the New Workplace Surveillance](https://press.princeton.edu/books/hardcover/9780691175300/data-driven)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -211,6 +248,7 @@
 | Bartl et al. | [Unmasking Contextual Stereotypes: Measuring and Mitigating BERT's Gender Bias](https://arxiv.org/pdf/2010.14534.pdf) | 2020 | `NLP` `LLM` `Bias Mitigation` | 
 | Basta et al. | [Evaluating the Underlying Gender Bias in Contextualized Word Embeddings](https://aclanthology.org/W19-3805.pdf) | 2019 | `NLP` `LLM` | 
 | Berk et al. | [Fairness in Criminal Justice Risk Assessments: The State of the Art](https://arxiv.org/abs/1703.09207) | 2017 | `Algorithmic Fairness` | 
+| Bender & Friedman | [Data Statements for Natural Language Processing: Toward Mitigating System Bias and Enabling Better Science](https://aclanthology.org/Q18-1041.pdf) | 2018 | `Guidelines & Recommendations` |
 | Bender et al. | [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/10.1145/3442188.3445922) | 2021 | `NLP` `LLM` |
 | Bertrand & Mullainathan | [Are Emily and Greg More Employable Than Lakisha and Jamal? A Field Experiment on Labor Market Discrimination](https://www.aeaweb.org/articles?id=10.1257/0002828042002561) | 2004 | `Social Justice` |
 | Birhane, A. | [Algorithmic injustice: a relational ethics approach](https://www.cell.com/patterns/fulltext/S2666-3899(21)00015-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666389921000155%3Fshowall%3Dtrue) | 2021 | `Algorithmic Fairness` `Feminism` |
@@ -225,10 +263,12 @@
 | Citron & Pasquale | [The Scored Society: Due Process for Automated Predictions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2376209) | 2014 | `Data` | 
 | Cooper, J. | [Separation Anxiety](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2655794) | 2017 | `Privacy` `Policy` | 
 | Crawford & Schultz | [Big Data and Due Process: Toward a Framework to Redress Predictive Privacy Harms](https://lawdigitalcommons.bc.edu/bclr/vol55/iss1/4/) | 2014 | `Data` `Privacy` `Policy` | 
+| Danks, D. | [The Value of Trustworthy AI](https://dl.acm.org/doi/10.1145/3306618.3314228) | 2019 | `Guidelines & Recommendations` |
 | Davis & Osoba | [Privacy Preservation in the Age of Big Data](https://www.rand.org/pubs/working_papers/WR1161.html) | 2016 | `Privacy` `Data` |
 | Devinney et al. | [Theories of "Gender" in NLP Bias Research](https://arxiv.org/pdf/2205.02526.pdf) | 2022 | `NLP` `Bias Mitigation` |
 | Diakopoulos, N. | [Algorithmic Accountability: Journalistic investigation of computational power structures](https://www.tandfonline.com/doi/abs/10.1080/21670811.2014.976411) | 2014 | `Algorithmic Fairness` |
 | Dietvorst et al. | [Algorithm Aversion: People Erroneously Avoid Algorithms After Seeing Them Err](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1392&context=fnce_papers#:~:text=We%20show%20that%20people%20are,them%20make%20the%20same%20mistake.) | 2015 | `Policy`| 
+| Dignum et al. | [On the importance of AI research beyond disciplines](https://arxiv.org/abs/2302.06655) | 2023 | `Guidelines & Recommendations`
 | Dillon, S. | [The Eliza Effect and Its Dangers: From Demystification to Gender Critique](https://www.repository.cam.ac.uk/bitstream/handle/1810/304211/Dillon%20The%20Eliza%20Effect%20JCR.pdf?sequence=1&isAllowed=n) | 2020 | `Virtual Assistants` `Feminism` |
 | Doshi-Velez & Kim | [Towards A Rigorous Science of Interpretable Machine Learning](https://arxiv.org/abs/1702.08608) | 2017 | `XAI` | 
 | Drosou et al. | [Diversity in Big Data: A Review](https://www.cs.drexel.edu/~julia/documents/big.2016.0054.pdf) | 2017 | `Data` | 
@@ -241,6 +281,7 @@
 | Gebru et al. | [Datasheets for Datasets](https://arxiv.org/pdf/1803.09010.pdf) | 2021 | `Data` `XAI` |
 | Gillespie, T. | [The Relevance of Algorithms](https://www.microsoft.com/en-us/research/wp-content/uploads/2014/01/Gillespie_2014_The-Relevance-of-Algorithms.pdf) | 2014 | `Algorithmic Fairness` `XAI`| 
 | Grgić-Hlača et al. | [The Case for Process Fairness in Learning: Feature Selection for Fair Decision Making](https://people.mpi-sws.org/~gummadi/papers/process_fairness.pdf) | 2016 | `Algorithmic Fairness` `Guidelines & Recommendations` |
+| Griffin et al. | [The ethical agency of AI developers](https://link.springer.com/article/10.1007/s43681-022-00256-3) | 2023 | `Algorithmic Fairness` `Policy` |
 | Grimmelmann & Westreich | [Incomprehensible Discrimination](https://scholarship.law.cornell.edu/facpub/1536/) | 2017 | `Data` `Algorithmic Fairness` | 
 | Gonen & Goldberg | [Lipstick on a Pig: Debiasing Methods Cover up Systemic Gender Biases in Word Embeddings But Do Not Remove Them](https://arxiv.org/pdf/1903.03862.pdf) | 2019 | `NLP` `LLM` |
 | Goodman, B. | [Economic Models of (Algorithmic) Discrimination](http://www.mlandthelaw.org/papers/goodman2.pdf) | 2016 | `Algorithmic Fairness` | 
@@ -260,6 +301,7 @@
 | Jung et al. | [Simple Rules for Complex Decisions](https://arxiv.org/pdf/1702.04690.pdf)| 2017 | `Guidelines & Suggestions` | 
 | Kaptein & Eckles | [Selecting Effective Means to Any End; Futures and Ethics of Persuasion Profiling](https://link.springer.com/chapter/10.1007/978-3-642-13226-1_10) | 2010 | `Policy` |
 | Kerr et al. | [Expectations of artificial intelligence and the performativity of ethics: implications for communication governance](https://journals.sagepub.com/doi/full/10.1177/2053951720915939) | 2020 | `Policy` |
+| Khan & Hanna | [The Subjects and Stages of AI Dataset Development: A Framework for Dataset Accountability](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4217148) | 2022 | `Data` `Guidelines & Recommendations` | 
 | Kleinberg et al. | [Inherent Trade-Offs in the Fair Determination of Risk Scores](https://arxiv.org/abs/1609.05807) | 2016 | `Algorithmic Fairness` |
 | Kochelek, D. | [Data Mining and Antitrust](http://jolt.law.harvard.edu/articles/pdf/v22/22HarvJLTech515.pdf) | 2009 | `Data` `Privacy` | 
 | Kosinski et al. | [Private traits and attributes are predictable from digital records of human behavior](https://www.pnas.org/content/110/15/5802) | 2013 | `Privacy` `Data` | 
@@ -279,6 +321,7 @@
 | Prabhakaran et al. | [A Human Rights-Based Approach to Responsible AI](https://arxiv.org/abs/2210.02667) | 2022 | `Algorithmic Fairness` `Guidelines & Recommendations` | 
 | Prabhu & Birhane | [Large Datasets: A Pyrrhic Win for Computer Vision?](https://arxiv.org/pdf/2006.16923.pdf) | 2020 | `Computer Vision` `Data` | 
 | Raji & Buolamwini | [Actionable Auditing: Investigating the Impact of Publicly Naming Biased Performance Results of Commercial AI Products](https://dam-prod.media.mit.edu/x/2019/01/24/AIES-19_paper_223.pdf) | 2019 | `Algorithmic Fairness` |
+| Raji et al. | [You Can't Sit With Us: Exclusionary Pedagogy in AI Ethics Education](https://dl.acm.org/doi/abs/10.1145/3442188.3445914) | 2021 | `Algorithmic Fairness` `Policy` `Guidelines & Recommendations` |
 | Ryan & Stahl | [Artificial intelligence ethics guidelines for developers and users: clarifying their content and normative implications](https://www.researchgate.net/publication/342080262_Artificial_intelligence_ethics_guidelines_for_developers_and_users_clarifying_their_content_and_normative_implications) | 2020 | `Guidelines & Recommendations` | 
 | Sandvig et al. | [Auditing Algorithms: Research Methods for Detecting Discrimination on Internet Platforms](http://www-personal.umich.edu/~csandvig/research/Auditing%20Algorithms%20--%20Sandvig%20--%20ICA%202014%20Data%20and%20Discrimination%20Preconference.pdf) | 2014 | `Algorithmic Fairness` `Guidelines & Suggestions` |
 | Selbst et al. | [Fairness and Abstraction in Sociotechnical Systems](https://dl.acm.org/doi/10.1145/3287560.3287598) | 2019 | `Algorithmic Fairness` |
