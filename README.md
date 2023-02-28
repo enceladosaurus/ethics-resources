@@ -67,7 +67,7 @@
 - [European Network of Human-Centered Artificial Intelligence](https://www.humane-ai.eu/): EU funded organization for ethical AI
 - [FARI: AI Institute for the Common Good](https://fari.brussels/): Brussels-based, not-for-profit academic collaboration
 - [Distributed AI Research Institute](https://www.dair-institute.org/): an interdisciplinary and globally distributed AI research institute
-
+- [Living With Data](https://livingwithdata.org/): programme of research on what it's like to live with data, AI, and automation
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -177,8 +177,7 @@
 - [The Exploited Labor Behind Artificial Intelligence](https://www.noemamag.com/the-exploited-labor-behind-artificial-intelligence/)
 - [AI is finally good at stuff and that's a problem](https://www.vox.com/recode/2022/12/7/23498694/ai-artificial-intelligence-chat-gpt-openai)
 - [DeepMind's CEO Helped Take AI Mainstream. How He's Urging Caution](https://time.com/6246119/demis-hassabis-deepmind-interview/)
-
-
+- [Difference Machines: Technology and Identity in Contemporary Art](https://buffaloakg.org/art/exhibitions/difference-machines-technology-and-identity-contemporary-art)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -220,7 +219,18 @@
 - [This is Technology Ethics: An Introduction](https://www.wiley.com/en-us/This+is+Technology+Ethics:+An+Introduction-p-9781119755586) by Sven Nyholm
 - [Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence](https://yalebooks.yale.edu/book/9780300264630/atlas-of-ai/) by Kate Crawford
 - [Your Computer Is On Fire](https://mitpress.mit.edu/9780262539739/your-computer-is-on-fire/) edited by Thomas S. Mullaney, Benjamin Peters, Mar Hicks, and Kavita Philip
-- [Data Driven: Truckers, Technology, and the New Workplace Surveillance](https://press.princeton.edu/books/hardcover/9780691175300/data-driven)
+- [Data Driven: Truckers, Technology, and the New Workplace Surveillance](https://press.princeton.edu/books/hardcover/9780691175300/data-driven) by Karen Levy
+- [Revolutionary Mathematics: Artificial Intelligence, Statistics, and the Logic of Capitalism](https://www.versobooks.com/books/3897-revolutionary-mathematics) by Justin Joque
+- [Data Justice](https://uk.sagepub.com/en-gb/eur/data-justice/book271599) by Lina Dencik, Arne Hintz, Joanna Redden, and Emiliano Treré 
+- [Understanding Well-being Data: Improving Social and Cultural Policy, Practice, and Research](https://link.springer.com/book/10.1007/978-3-030-72937-0) by Susan Oman
+- [Numbered Lives: Livfe and Death in Quantum Media](https://mitpress.mit.edu/9780262039048/numbered-lives/) by Jacqueline Wernimont
+- [Emergent Strategy: Shaping Change, Changing Worlds](https://www.akpress.org/emergentstrategy.html) by Adrienne Maree Brown
+- [The Alignment Problem: Machine Learning and Human Values](https://brianchristian.org/the-alignment-problem/) by Brian Christian
+- [Cloud Ethics: Algorithms and the Attributes of Ourselves and Others](https://www.dukeupress.edu/cloud-ethics) by Louise Amoore
+- [Beautiful Data: A History of Vision and Reason since 1945](https://www.dukeupress.edu/beautiful-data) by Orit Halpern
+- [Chokepoint Capitalism](https://chokepointcapitalism.com/) by Rebecca Giblin and Cory Doctorow
+- [The Equality Machine: Harnessing Digital Technology for a Brighter, More Inclusive Future](https://www.publicaffairsbooks.com/titles/orly-lobel/the-equality-machine/9781541774735/) by Orly Lobel
+- [Queer Data: Using Gender, Sex, and Sexuality Data for Action](https://www.bloomsbury.com/us/queer-data-9781350230729/) by Kevin Guyan
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -281,7 +291,8 @@
 | Gebru et al. | [Datasheets for Datasets](https://arxiv.org/pdf/1803.09010.pdf) | 2021 | `Data` `XAI` |
 | Gillespie, T. | [The Relevance of Algorithms](https://www.microsoft.com/en-us/research/wp-content/uploads/2014/01/Gillespie_2014_The-Relevance-of-Algorithms.pdf) | 2014 | `Algorithmic Fairness` `XAI`| 
 | Grgić-Hlača et al. | [The Case for Process Fairness in Learning: Feature Selection for Fair Decision Making](https://people.mpi-sws.org/~gummadi/papers/process_fairness.pdf) | 2016 | `Algorithmic Fairness` `Guidelines & Recommendations` |
-| Griffin et al. | [The ethical agency of AI developers](https://link.springer.com/article/10.1007/s43681-022-00256-3) | 2023 | `Algorithmic Fairness` `Policy` |
+| Griesbach et al. |[Algorithmic Control in Platform Food Delivery Work](https://journals.sagepub.com/doi/full/10.1177/2378023119870041) | 2019 | `Algorithmic Fairness`|  
+| Griffin et al. | [The ethical agency of AI developers](https://link.springer.com/article/10.1007/s43681-022-00256-3) | 2023 | `Algorithmic Fairness` `Policy`| 
 | Grimmelmann & Westreich | [Incomprehensible Discrimination](https://scholarship.law.cornell.edu/facpub/1536/) | 2017 | `Data` `Algorithmic Fairness` | 
 | Gonen & Goldberg | [Lipstick on a Pig: Debiasing Methods Cover up Systemic Gender Biases in Word Embeddings But Do Not Remove Them](https://arxiv.org/pdf/1903.03862.pdf) | 2019 | `NLP` `LLM` |
 | Goodman, B. | [Economic Models of (Algorithmic) Discrimination](http://www.mlandthelaw.org/papers/goodman2.pdf) | 2016 | `Algorithmic Fairness` | 
@@ -316,6 +327,7 @@
 | Mehrabi et al. | [A Survey on Bias and Fairness in Machine Learning](https://arxiv.org/pdf/1908.09635.pdf) | 2022 | `Algorithmic Fairness`
 | Miceli et al. | [Documenting Data Production Processes: A Participatory Approach for Data Work](https://arxiv.org/pdf/2207.04958.pdf) | 2022 | `Data` `Guidelines & Recommendations` | 
 | Mitchell et al. | [Model Cards for Model Reporting](https://arxiv.org/pdf/1810.03993.pdf) | 2019 | `Data` `XAI` | 
+| Mueller, M. | [A Critique of 'Surveillance Capitalism' Thesis: Toward a Digital Political Economy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4178467) | 2022 | `Guidelines & Recommendations` | 
 | Nadeem et al. | [StereoSet: Measuring stereotypical bias in pretrained language models](https://arxiv.org/pdf/2004.09456.pdf) | 2020 | `NLP` `LLM` `Datasets` |
 | Nangia et al. | [CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models](https://arxiv.org/pdf/2010.00133.pdf) | 2020 | `NLP` `LLM` `Datasets` |
 | Prabhakaran et al. | [A Human Rights-Based Approach to Responsible AI](https://arxiv.org/abs/2210.02667) | 2022 | `Algorithmic Fairness` `Guidelines & Recommendations` | 
@@ -334,6 +346,7 @@
 | Tsamados et al. | [The ethics of algorithms: key problems and solutions](https://link.springer.com/article/10.1007/s00146-021-01154-8) | 2021 | `Algorithmic Fairness`|
 | Vakkuri et al. | [AI Ethics in Industry: A Research Framework](https://jyx.jyu.fi/handle/123456789/67326) | 2019 | `Guidelines & Suggestions` `XAI` | 
 | Webster et al. | [Measuring and Reducing Gendered Correlations in Pre-trained Models](https://arxiv.org/pdf/2010.06032.pdf) | 2020 | `NLP` `Bias Mitigation` `LLM` |
+| Whitman, M. | ["We called that a behavior": The making of institutional data](https://sociologica.unibo.it/article/view/8364) | 2020 | `Data` | 
 | Wu & Zhang | [Responses to Critiques on Machine Learning of Criminality Perceptions](https://arxiv.org/pdf/1611.04135.pdf) | 2017 | `Algorithmic Fairness` `Computer Vision` | 
 | Zarsky, T. | [The Trouble with Algorithmic Decisions: An Analytic Road Map to Examine Efficiency and Fairness in Automated and Opaque Decision Making](https://journals.sagepub.com/doi/abs/10.1177/0162243915605575) | 2015 | `Privacy` `XAI` |
 | Zarsky, T. | [Transparent Predictions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2324240) | 2013 | `Data` `Privacy` `Policy` | 
