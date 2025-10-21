@@ -257,16 +257,17 @@
 | Barocas & Nissenbaum | [Big Data's End Run Around Procedural Privacy Protections](https://cacm.acm.org/magazines/2014/11/179832-big-datas-end-run-around-procedural-privacy-protections/fulltext?mobile=false) | 2014 | `Data` `Privacy` `Policy` | 
 | Bartl et al. | [Unmasking Contextual Stereotypes: Measuring and Mitigating BERT's Gender Bias](https://arxiv.org/pdf/2010.14534.pdf) | 2020 | `NLP` `LLM` `Bias Mitigation` | 
 | Basta et al. | [Evaluating the Underlying Gender Bias in Contextualized Word Embeddings](https://aclanthology.org/W19-3805.pdf) | 2019 | `NLP` `LLM` | 
+| Becker et al. | [Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity](https://arxiv.org/abs/2507.09089) | 2025 | `LLM` `AI Harm`|
 | Berk et al. | [Fairness in Criminal Justice Risk Assessments: The State of the Art](https://arxiv.org/abs/1703.09207) | 2017 | `Algorithmic Fairness` | 
 | Bender & Friedman | [Data Statements for Natural Language Processing: Toward Mitigating System Bias and Enabling Better Science](https://aclanthology.org/Q18-1041.pdf) | 2018 | `Guidelines & Recommendations` |
-| Bender et al. | [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/10.1145/3442188.3445922) | 2021 | `NLP` `LLM` |
+| Bender et al. | [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/10.1145/3442188.3445922) | 2021 | `NLP` `LLM` `AI Harm`|
 | Bertrand & Mullainathan | [Are Emily and Greg More Employable Than Lakisha and Jamal? A Field Experiment on Labor Market Discrimination](https://www.aeaweb.org/articles?id=10.1257/0002828042002561) | 2004 | `Social Justice` |
 | Birhane, A. | [Algorithmic injustice: a relational ethics approach](https://www.cell.com/patterns/fulltext/S2666-3899(21)00015-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666389921000155%3Fshowall%3Dtrue) | 2021 | `Algorithmic Fairness` `Feminism` |
 | Bolukbasi et al. | [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/abs/1607.06520) | 2016 | `NLP` `Bias Mitigation` `LLM` | 
 | Brandusescu & Reia | [Artificial Intelligence in the City: Building Civic Engagement and Public Trust](https://libraopen.lib.virginia.edu/public_view/5t34sj769) | 2022 | `Data` `Policy` | 
 | Brey et al. | [An ethical framework for the development and use of AI and robotics technologies](https://www.sienna-project.eu/digitalAssets/801/c_801912-l_1-k_d4.7_ethical-framework-for-ai--robotics_v2.pdf) | 2020 | `Guidelines & Recommendations` | 
 | Burrell, J. | [How the machine "thinks": Understanding opacity in machine learning algorithms](https://journals.sagepub.com/doi/full/10.1177/2053951715622512) | 2016 | `XAI` | 
-| Buolamwini & Gebru | [Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification](https://dam-prod.media.mit.edu/x/2018/02/06/Gender%20Shades%20Intersectional%20Accuracy%20Disparities.pdf) | 2018 | `Computer Vision` `Algorithmic Fairness` `Data` | 
+| Buolamwini & Gebru | [Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification](https://dam-prod.media.mit.edu/x/2018/02/06/Gender%20Shades%20Intersectional%20Accuracy%20Disparities.pdf) | 2018 | `Computer Vision` `Algorithmic Fairness` `Data` `AI Harm`| 
 | Caliskan et al. | [Semantics derived automatically form language corpora contain human-like biases](https://arxiv.org/abs/1608.07187) | 2017 | `NLP` | 
 | Chen et al. | [Enhancing Transparency and Control When Drawing Data-Driven Inferences About Individuals](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5647518/) | 2017 | `Data` `Privacy`|
 | Cho et al. | [DALL-Eval: Probing the Reasoning Skills and Social Biased of Text-to-Image Generative Transformers](https://arxiv.org/abs/2202.04053) | 2022 | `Computer Vision` |
@@ -279,7 +280,7 @@
 | Diakopoulos, N. | [Algorithmic Accountability: Journalistic investigation of computational power structures](https://www.tandfonline.com/doi/abs/10.1080/21670811.2014.976411) | 2014 | `Algorithmic Fairness` |
 | Dietvorst et al. | [Algorithm Aversion: People Erroneously Avoid Algorithms After Seeing Them Err](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1392&context=fnce_papers#:~:text=We%20show%20that%20people%20are,them%20make%20the%20same%20mistake.) | 2015 | `Policy`| 
 | Dignum et al. | [On the importance of AI research beyond disciplines](https://arxiv.org/abs/2302.06655) | 2023 | `Guidelines & Recommendations`
-| Dillon, S. | [The Eliza Effect and Its Dangers: From Demystification to Gender Critique](https://www.repository.cam.ac.uk/bitstream/handle/1810/304211/Dillon%20The%20Eliza%20Effect%20JCR.pdf?sequence=1&isAllowed=n) | 2020 | `Virtual Assistants` `Feminism` |
+| Dillon, S. | [The Eliza Effect and Its Dangers: From Demystification to Gender Critique](https://www.repository.cam.ac.uk/bitstream/handle/1810/304211/Dillon%20The%20Eliza%20Effect%20JCR.pdf?sequence=1&isAllowed=n) | 2020 | `Virtual Assistants` `Feminism` `AI Harm`|
 | Doshi-Velez & Kim | [Towards A Rigorous Science of Interpretable Machine Learning](https://arxiv.org/abs/1702.08608) | 2017 | `XAI` | 
 | Drosou et al. | [Diversity in Big Data: A Review](https://www.cs.drexel.edu/~julia/documents/big.2016.0054.pdf) | 2017 | `Data` | 
 | Du et al. | [VOS: Learning What You Don't Know by Virtual Outlier Synthesis](https://arxiv.org/abs/2202.01197) | 2022 | `XAI`|
@@ -293,9 +294,10 @@
 | Grgić-Hlača et al. | [The Case for Process Fairness in Learning: Feature Selection for Fair Decision Making](https://people.mpi-sws.org/~gummadi/papers/process_fairness.pdf) | 2016 | `Algorithmic Fairness` `Guidelines & Recommendations` |
 | Griesbach et al. |[Algorithmic Control in Platform Food Delivery Work](https://journals.sagepub.com/doi/full/10.1177/2378023119870041) | 2019 | `Algorithmic Fairness`|  
 | Griffin et al. | [The ethical agency of AI developers](https://link.springer.com/article/10.1007/s43681-022-00256-3) | 2023 | `Algorithmic Fairness` `Policy`| 
-| Grimmelmann & Westreich | [Incomprehensible Discrimination](https://scholarship.law.cornell.edu/facpub/1536/) | 2017 | `Data` `Algorithmic Fairness` | 
-| Gonen & Goldberg | [Lipstick on a Pig: Debiasing Methods Cover up Systemic Gender Biases in Word Embeddings But Do Not Remove Them](https://arxiv.org/pdf/1903.03862.pdf) | 2019 | `NLP` `LLM` |
+| Grimmelmann & Westreich | [Incomprehensible Discrimination](https://scholarship.law.cornell.edu/facpub/1536/) | 2017 | `Data` `Algorithmic Fairness` `AI Harm`| 
+| Gonen & Goldberg | [Lipstick on a Pig: Debiasing Methods Cover up Systemic Gender Biases in Word Embeddings But Do Not Remove Them](https://arxiv.org/pdf/1903.03862.pdf) | 2019 | `NLP` `LLM` `AI Harm`|
 | Goodman, B. | [Economic Models of (Algorithmic) Discrimination](http://www.mlandthelaw.org/papers/goodman2.pdf) | 2016 | `Algorithmic Fairness` | 
+| Guest et al. | [Against the Uncritical Adoption of 'AI' Technologies in Academia](https://doi.org/10.5281/zenodo.17065099) | 2025 | `GenAI` `AI Harm` | 
 | Guo & Caliskan | [Detecting Emergent Intersectional Biases: Contextualized Word Embeddings Contain a Distribution of Human-like Biases](https://dl.acm.org/doi/pdf/10.1145/3461702.3462536) | 2021 | `NLP` `LLM` |
 | Haggerdy, K. | [Methodology as a Knife Fight: The Process, Politics, and Paradox of Evaluating Surveillance](https://link.springer.com/article/10.1007/s10612-009-9083-y) | 2009 | `Policy` `Surveillance` | 
 | Hanna et al. | [Towards a Critical Race Methodology in Algorithmic Fairness](https://arxiv.org/pdf/1912.03593.pdf) | 2019 | `Critical Race Theory` `Algorithmic Fairness` |
@@ -306,6 +308,7 @@
 | Hutchinson et al. | [Towards Accountability for Machine Learning Datasets: Practices from Sofftware Engineering and Infrastructure](https://arxiv.org/pdf/2010.13561.pdf) | 2021 | `Data` |
 | Jacobs & Wallach | [Measurement and Fairness](https://arxiv.org/pdf/1912.05511.pdf) | 2021 | `Algorithmic Fairness` | 
 | Jacovi et al. | [Diagnosing AI Explanation Methods with Folk Concepts of Behavior](https://arxiv.org/pdf/2201.11239.pdf) | 2022 | `XAI`|
+| Jaźwińska et al. | [AI Search Has A Citation Problem](https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php) | 2025 | `GenAI` `AI Harm` | 
 | Jobin et al. | [The global landscape of AI ethics](https://www.nature.com/articles/s42256-019-0088-2) | 2019 | `Literature Review` |
 | Jones, M. | [The right to a human in the loop: Political constructions of computer automation and personhood](https://journals.sagepub.com/doi/abs/10.1177/0306312717699716) | 2017 | `Policy` `Algorithmic Fairness` | 
 | Joseph et al. | [Fairness in Learning: Classic and Contextual Bandits](https://papers.nips.cc/paper/2016/hash/eb163727917cbba1eea208541a643e74-Abstract.html) | 2016 | `Algorithmic Fairness` `RL` | 
@@ -322,7 +325,7 @@
 | Lippert-Rasmussen, K. | ["We are all Different": Statistical Discrimination and the Right to be Treated as in Individual](https://link.springer.com/article/10.1007/s10892-010-9095-6) | 2010 | `Data` | 
 | Lipton, Z. | [The Mythos of Model Interpretability](https://arxiv.org/abs/1606.03490) | 2016 | `XAI` | 
 | Liu et al. | [Privacy and Security Issues in Deep Learning: A Survey](https://ieeexplore.ieee.org/document/9294026) | 2021 | `Privacy` | 
-| Matthews et al. | [Gender Bias in Natural Language Processing Across Human Languages](https://aclanthology.org/2021.trustnlp-1.6.pdf) | 2021 | `NLP` `LLM` | 
+| Matthews et al. | [Gender Bias in Natural Language Processing Across Human Languages](https://aclanthology.org/2021.trustnlp-1.6.pdf) | 2021 | `NLP` `LLM` `AI Harm`| 
 | McGregor, S. | [Preventing Repeated Real World AI Failures by Cataloging Incidents: The AI Incident Database](https://arxiv.org/pdf/2011.08512.pdf) | 2020 | `Datasets`|
 | Mehrabi et al. | [A Survey on Bias and Fairness in Machine Learning](https://arxiv.org/pdf/1908.09635.pdf) | 2022 | `Algorithmic Fairness`
 | Miceli et al. | [Documenting Data Production Processes: A Participatory Approach for Data Work](https://arxiv.org/pdf/2207.04958.pdf) | 2022 | `Data` `Guidelines & Recommendations` | 
